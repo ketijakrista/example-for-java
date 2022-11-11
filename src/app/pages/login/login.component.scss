@@ -1,7 +1,7 @@
 .login-section {
   padding: 20px;
   background-color: #F0F4EF;
-  min-height: 100vh;
+  min-height: calc(100vh - 46px);
 }
 
 .login-form-container {
